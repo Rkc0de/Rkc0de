@@ -1,7 +1,7 @@
-# Robert Caxito
-**`Frontend Dev`**
 
-<h3 align="center">🚀 Software Engineer | Passionate about building modern digital solutions</h3>
+<img src="https://github.com/Rkc0de/Rkc0de/blob/main/Robert%20Cxito.gif?raw=true" alt="">
+
+<h3 align="center"> Software Engineer | Passionate about building modern digital solutions</h3>
 
 ---
 
